@@ -1,0 +1,14 @@
+[
+    { 
+        "id": 1, 
+        "title": "Test1", 
+        "imgSrc": "", 
+        "description": "This is a new description", 
+        "comments": [
+            { "id": 1, "text": "this is a new comment" }
+        ], 
+        "likes": 20
+    },
+    { "id": 2, "title": "Test2", "imgSrc": "", "description": "This is a new description", "comments": [], "likes": 25 },
+    { "id": 3, "title": "Test3", "imgSrc": "", "description": "This is a new description", "comments": [], "likes": 23 }
+]
